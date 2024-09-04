@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -35,35 +34,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# 🚀 30 Days of 30 Projects
-
-Build **30 exciting projects** in 30 days using latest tech-stack! 💻✨
-
-## 🎯 Challenge Overview
-
-- 🛠️ **Tech Stack:** TypeScript, TailwindCSS, Next.js, and more!
-- 📚 **Daily Guide:** Step-by-step instructions for each project
-- 🧩 **Component-Based:** Learn to build modular, reusable code
-
-## 🌟 What You'll Get
-
-- 🏗️ **Daily Projects:** One new project every day for 30 days
-- 📝 **Guided Learning:** Detailed articles explaining code and process
-- 💪 **Skill Boost:** Hands-on experience with the latest technologies
-- 🗂️ **Portfolio Growth:** Create impressive mini-products to showcase
-
-## 🎨 Project Focus
-
-Each project targets a **specific functionality**, designed to be:
-
-- ⏱️ **Completable in a day**
-- 🔍 **Focused on practical skills**
-- 🚀 **Great for beginners and intermediate developers**
-
-## 📅 Start Date: 01/09/2024
-
-Ready to level up your skills? Let's code! 💻🔥
-
-### ⭐ Don't forget to star this repository!
->>>>>>> 0b1b4569a9ad1e97b2237e528ebb8565dbf6dc54
